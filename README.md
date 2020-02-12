@@ -1,15 +1,15 @@
 # Arbisoft-Practice
 
 To compile file
-# javac filename.java
+#1 javac filename.java
 
 To run file
-# java filename
+#1 java filename
 
 For including jar files
 
 To compile file
-# javac -cp json.jar filename.java
+#1 javac -cp json.jar filename.java
 
 To run file
-# java -cp "json.jar;" filename
+#1 java -cp "json.jar;" filename
